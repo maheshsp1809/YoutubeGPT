@@ -1,0 +1,17 @@
+# Node.js
+node_modules
+
+# Next.js build output
+.next
+
+# Environment variables
+.env
+
+# Visual Studio Code settings
+.vscode
+
+# macOS metadata
+.DS_Store
+
+# Log files
+*.log
